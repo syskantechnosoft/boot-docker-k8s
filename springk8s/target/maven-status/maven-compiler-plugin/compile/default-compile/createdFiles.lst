@@ -1,0 +1,6 @@
+com\cts\springk8s\Springk8sApplication.class
+com\cts\springk8s\service\StudentService.class
+com\cts\springk8s\model\Student.class
+com\cts\springk8s\repo\StudentRepository.class
+com\cts\springk8s\service\StudentServiceImpl.class
+com\cts\springk8s\controller\StudentController.class

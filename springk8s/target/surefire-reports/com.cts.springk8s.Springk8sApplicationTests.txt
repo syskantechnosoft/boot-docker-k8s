@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.cts.springk8s.Springk8sApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.759 s - in com.cts.springk8s.Springk8sApplicationTests
